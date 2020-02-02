@@ -1,1 +1,2 @@
 # PythonAcademyKJ
+Novy radek.
