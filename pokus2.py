@@ -1,3 +1,0 @@
-print('neco')
-
-neco dalsiho
